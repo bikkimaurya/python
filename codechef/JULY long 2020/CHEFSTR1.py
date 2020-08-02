@@ -1,5 +1,4 @@
 ans=0
-
 for q in range(int(input())):
     ans=0
     n=int(input())
